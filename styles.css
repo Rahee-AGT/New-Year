@@ -1,0 +1,29 @@
+body {
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.nav-styles {
+    align-items: center;
+    padding-top: 50px;
+    padding-left: 140px;
+    padding-right: 140px;
+    /* width: max-content; */
+    /* position: absolute; */
+    width: 1320px;
+    height: 600px;
+}
+.img-1 {
+    align-items: center;
+    padding-top: 120px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.p1 {
+    /* font-weight: bolder;
+    font-size: ;
+    color: #FF0000;
+    align-items: center;
+    /* width: 803px; */
+    /* height: 806px; */
+    /* word-spacing: 48px; */
+}
